@@ -1,0 +1,4 @@
+target/
+jsf-picklist-example-jar/target/
+jsf-picklist-example-ejb/target/
+jsf-picklist-example-web/target/
